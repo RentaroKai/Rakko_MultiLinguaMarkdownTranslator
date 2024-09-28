@@ -1,3 +1,5 @@
+![翻訳](https://github.com/user-attachments/assets/6806ed76-3f07-4419-bb8d-49ef6c939c80)
+
 # 技術書等マークダウン多言語翻訳ツール
 
 ## 概要
