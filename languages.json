@@ -1,0 +1,134 @@
+{
+
+    "English": {
+        "prompt": "Please translate the following Japanese text to English. Do not modify any text enclosed in square brackets like [this]. Also, preserve the line breaks (<br>) at the end of bullet points. For character dialogues, use concise, casual spoken language. Focus on capturing the tone and atmosphere, not on perfect accuracy. You MUST respect and maintain any parts that have already been translated.",
+        "suffix": "_EN",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Nunito', sans-serif",
+        "fontSize": "19px",
+        "lineHeight": "2.0"
+    },
+
+    "Hindi": {
+        "prompt": "कृपया निम्नलिखित जापानी पाठ का हिंदी में अनुवाद करें। वर्गाकार कोष्ठक में बंद किसी भी पाठ को संशोधित न करें जैसे [यह]। बुलेट पॉइंट्स के अंत में लाइन ब्रेक (<br>) को भी बनाए रखें। चरित्र संवादों के लिए, संक्षिप्त, अनौपचारिक बोली जाने वाली भाषा का उपयोग करें। सटीक अनुवाद पर नहीं, बल्कि टोन और वातावरण को पकड़ने पर ध्यान दें। आपको पहले से अनुवादित किसी भाग का सम्मान करना और उसे बनाए रखना चाहिए।",
+        "suffix": "_HI",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Poppins', sans-serif",
+        "fontSize": "18px",
+        "lineHeight": "1.7"
+    },
+
+    "Spanish": {
+        "prompt": "Por favor, traduce el siguiente texto japonés al español. No modifiques ningún texto entre corchetes como [este]. Además, conserva los saltos de línea (<br>) al final de los puntos de enumeración. Para los diálogos de los personajes, utiliza un lenguaje hablado conciso y coloquial. Concéntrate en captar el tono y la atmósfera, no en la precisión perfecta. DEBES respetar y mantener cualquier parte que ya haya sido traducida.",
+        "suffix": "_ES",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "19px",
+        "lineHeight": "1.7"
+    },
+
+    "Chinese": {
+        "prompt": "请将以下日语文本翻译成中文。不要修改任何方括号中的文本，如[这样]。同时，保留项目符号末尾的换行符（<br>）。对于角色对话，请使用简洁、口语化的语言。注重捕捉语气和氛围，而不是追求完美的准确性。你必须尊重并保留任何已经翻译过的部分。",
+        "suffix": "_CH",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Noto Sans SC', sans-serif",
+        "fontSize": "17px",
+        "lineHeight": "1.8"
+    },
+
+    "Portuguese": {
+        "prompt": "Por favor, traduza o seguinte texto japonês para português. Não modifique nenhum texto entre colchetes como [este]. Além disso, preserve as quebras de linha (<br>) no final dos pontos de lista. Para diálogos de personagens, use uma linguagem falada concisa e casual. Concentre-se em capturar o tom e a atmosfera, não na precisão perfeita. Você DEVE respeitar e manter quaisquer partes que já tenham sido traduzidas.",
+        "suffix": "_PT",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Roboto', sans-serif",
+        "fontSize": "18px",
+        "lineHeight": "1.7"
+    },
+
+    "Arabic": {
+        "prompt": "يرجى ترجمة النص الياباني التالي إلى العربية. لا تقم بتعديل أي نص محاط بأقواس مربعة مثل [هذا]. أيضًا، حافظ على فواصل الأسطر (<br>) في نهاية النقاط. بالنسبة لحوارات الشخصيات، استخدم لغة محكية موجزة وعامية. ركز على التقاط النبرة والجو، وليس على الدقة المثالية. يجب عليك احترام والحفاظ على أي أجزاء تمت ترجمتها بالفعل.",
+        "suffix": "_AR",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Cairo', sans-serif",
+        "fontSize": "18px",
+        "lineHeight": "1.8"
+    },
+
+    "French": {
+        "prompt": "Veuillez traduire le texte japonais suivant en français. Ne modifiez aucun texte entre crochets comme [ceci]. De plus, conservez les sauts de ligne (<br>) à la fin des points. Pour les dialogues des personnages, utilisez un langage parlé concis et familier. Concentrez-vous sur la capture du ton et de l'atmosphère, pas sur une précision parfaite. Vous DEVEZ respecter et maintenir toutes les parties qui ont déjà été traduites.",
+        "suffix": "_FR",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Open Sans', sans-serif",
+        "fontSize": "17px",
+        "lineHeight": "1.7"
+    },
+
+    "Indonesian": {
+        "prompt": "Tolong terjemahkan teks Jepang berikut ke dalam bahasa Indonesia. Jangan mengubah teks apa pun yang ada dalam tanda kurung siku seperti [ini]. Juga, pertahankan jeda baris (<br>) di akhir poin-poin. Untuk dialog karakter, gunakan bahasa lisan yang ringkas dan santai. Fokus pada menangkap nada dan suasana, bukan pada keakuratan sempurna. Anda HARUS menghormati dan mempertahankan bagian apa pun yang sudah diterjemahkan.",
+        "suffix": "_ID",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Nunito', sans-serif",
+        "fontSize": "18px",
+        "lineHeight": "1.7"
+    },
+
+    "Turkish": {
+        "prompt": "Lütfen aşağıdaki Japonca metni Türkçe'ye çevirin. [Bu] gibi köşeli parantez içindeki herhangi bir metni değiştirmeyin. Ayrıca, madde işaretlerinin sonundaki satır sonlarını (<br>) koruyun. Karakter diyalogları için özlü, günlük konuşma dili kullanın. Mükemmel doğruluk yerine ton ve atmosferi yakalamaya odaklanın. Zaten çevrilmiş olan herhangi bir bölüme saygı göstermeli ve korumalısınız.",
+        "suffix": "_TR",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Roboto', sans-serif",
+        "fontSize": "17px",
+        "lineHeight": "1.6"
+    },
+
+    "German": {
+        "prompt": "Bitte übersetzen Sie den folgenden japanischen Text ins Deutsche. Ändern Sie keinen Text in eckigen Klammern wie [dieser]. Bewahren Sie auch die Zeilenumbrüche (<br>) am Ende der Aufzählungspunkte. Verwenden Sie für Charakterdialoge eine prägnante, umgangssprachliche Sprache. Konzentrieren Sie sich darauf, den Ton und die Atmosphäre einzufangen, nicht auf perfekte Genauigkeit. Sie MÜSSEN alle bereits übersetzten Teile respektieren und beibehalten.",
+        "suffix": "_DE",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Source Sans Pro', sans-serif",
+        "fontSize": "18px",
+        "lineHeight": "1.7"
+    },
+
+    "Italian": {
+        "prompt": "Per favore, traduci il seguente testo giapponese in italiano. Non modificare alcun testo racchiuso tra parentesi quadre come [questo]. Inoltre, mantieni le interruzioni di riga (<br>) alla fine dei punti elenco. Per i dialoghi dei personaggi, usa un linguaggio parlato conciso e informale. Concentrati sulla cattura del tono e dell'atmosfera, non sulla precisione perfetta. DEVI rispettare e mantenere tutte le parti che sono già state tradotte.",
+        "suffix": "_IT",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "18px",
+        "lineHeight": "1.7"
+    },
+
+    "Thai": {
+        "prompt": "กรุณาแปลข้อความภาษาญี่ปุ่นต่อไปนี้เป็นภาษาไทย อย่าแก้ไขข้อความใด ๆ ที่อยู่ในวงเล็บเหลี่ยมเช่น [นี้] นอกจากนี้ โปรดรักษาการขึ้นบรรทัดใหม่ (<br>) ที่ท้ายหัวข้อย่อย สำหรับบทสนทนาของตัวละคร ใช้ภาษาพูดที่กระชับและเป็นกันเอง เน้นการถ่ายทอดน้ำเสียงและบรรยากาศ ไม่ใช่ความถูกต้องที่สมบูรณ์แบบ คุณต้องเคารพและรักษาส่วนที่แปลไว้แล้ว",
+        "suffix": "_TH",
+        "fontImportUrl": "https://fonts.googleapis.com/css2?family=Sarabun:wght@400;700&display=swap",
+        "bodyFontWeight": "400",
+        "headingFontWeight": "700",
+        "fontFamily": "'Sarabun', sans-serif",
+        "fontSize": "18px",
+        "lineHeight": "1.8"
+    }
+}
